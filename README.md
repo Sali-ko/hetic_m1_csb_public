@@ -1,7 +1,8 @@
 
 
 # Configuration, environnement et versioning 
-## Séance 1 : Python, outils du développeur et bonnes pratiques
+## Séance 1 : Introduction - [slides](https://selimmmm.github.io/hetic_m1_csb_public/introduction_m1_csb.pdf)
+## Séance 1 : Python, outils du développeur et bonnes pratiques - [cours](https://selimmmm.github.io/hetic_pmd_maths_public/01_tp)
 ## Séance 1 : Exécuter un script
 ## Séance 1 : Sauvegarder son code avec Git
     
