@@ -6,7 +6,7 @@
 ## Séance 1 : Sauvegarder son code avec Git
     
 # Généralités en Python
-## Séances 1 \& 2 : Types, fonctions et classes
+## Séances 1 & 2 : Types, fonctions et classes
 ## Séance 2 : Un peu d'algorithmie
 ## Séance 2 : Manipulation de fichiers en Python
 ## Séance 3 : API et requêtes HTTP
