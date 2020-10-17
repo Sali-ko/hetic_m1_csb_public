@@ -7,8 +7,8 @@
 ## Séance 1 : Sauvegarder son code avec Git - [tutoriel sur GitHub](https://github.com/Selimmmm/git_step_by_step)
     
 # Généralités en Python
-## Séance 1 : TP 1 - Syntaxe, variables et types
-## Séances 1 & 2 : TP 2 - Boucles, tests, fonctions et classes
+## Séance 1 : TP 1 - Syntaxe, variables et types - [notebook](https://selimmmm.github.io/hetic_m1_csb_public/01_tp_1_syntaxe_variables_et_types.ipynb)
+## Séances 1 & 2 : TP 2 - Boucles, tests, fonctions et classes - [notebook](https://selimmmm.github.io/hetic_m1_csb_public/01_tp_2_test_boucle_fonction.ipynb)
 ## Séance 2 : Un peu d'algorithmie
 ## Séance 2 : Manipulation de fichiers en Python
 ## Séance 3 : API et requêtes HTTP
