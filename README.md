@@ -14,7 +14,7 @@
 ## Séance 3 : API et requêtes HTTP
    
 # Quelques librairies : manipulations de données
-## Séance 3 et 4 : La librairie pandas
+## Séance 3 & 4 : La librairie pandas
 ## Séance 3 : Interragir avec une base MongoDB en Python
 ## Séance 4 : La librairie numpy
 ## Séance 4 : Interragir avec une base SQL en Python
@@ -29,7 +29,7 @@
 ## Séance 5 : Introduction à la régression linéaire
 ## Séance 6 : Introduction générale au Machine Learning
 ## Séance 6 : Introduction à scikit-learn
-## Séance 6 et 7 : Problèmes de régression
+## Séance 6 & 7 : Problèmes de régression
 ## Séance 7 : Quelques algorithmes de régression
 ## Séance 7 : Métriques pour la régression
 ## Séance 7 : Introduction à la régression logistique
@@ -37,8 +37,8 @@
 ## Séance 8 : Quelques algorithmes de classification
 ## Séance 8 : Métriques pour la classification
 ## Séance 9 : Wrap-up Machine Learning Supervisé
-## Séance 9 et 10 : Clustering
+## Séance 9 & 10 : Clustering
 ## Séance 11 : NLP ? Réseaux neuronaux ? 
     
 # Construire un pipeline :
-## Séances 11 et 12 
+## Séances 11 & 12 
