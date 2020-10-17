@@ -2,7 +2,7 @@
 
 # Configuration, environnement et versioning 
 ## Séance 1 : Introduction - [slides](https://selimmmm.github.io/hetic_m1_csb_public/introduction_m1_csb.pdf)
-## Séance 1 : Python et environnement de développement - [slides](https://selimmmm.github.io/hetic_pmd_maths_public/m1_csb_01_python_et_env.pdf)
+## Séance 1 : Python et environnement de développement - [slides](https://selimmmm.github.io/hetic_m1_csb_public/01_python_env_dev.pdf)
 ## Séance 1 : Exécuter un script
 ## Séance 1 : Sauvegarder son code avec Git
     
