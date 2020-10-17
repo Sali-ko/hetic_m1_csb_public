@@ -4,7 +4,7 @@
 ## Séance 1 : Introduction - [slides](https://selimmmm.github.io/hetic_m1_csb_public/introduction_m1_csb.pdf)
 ## Séance 1 : Python et environnement de développement - [slides](https://selimmmm.github.io/hetic_m1_csb_public/01_python_env_dev.pdf)
 ## Séance 1 : Exécuter un script
-## Séance 1 : Sauvegarder son code avec Git
+## Séance 1 : Sauvegarder son code avec Git - [tutoriel sur GitHub](https://github.com/Selimmmm/git_step_by_step)
     
 # Généralités en Python
 ## Séances 1 & 2 : Types, fonctions et classes
