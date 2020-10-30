@@ -9,8 +9,8 @@
 # Généralités en Python
 ## Séance 1 : TP 1 - Syntaxe, variables et types - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/01_tp_1_syntaxe_variables_et_types.ipynb) - [google drive](https://drive.google.com/file/d/1Wkw512A1BNszYuL1rhJB0r1gF3TC9cUt/view?usp=sharing)
 ## Séances 1 & 2 : TP 2 - Boucles, tests et fonctions - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/01_tp_2_test_boucle_fonction.ipynb) - [google drive](https://drive.google.com/file/d/1ic1oP8GuopuOrP3l-SJroT2XVO6JViBT/view?usp=sharing)
-## Séance 3 : Un peu d'algorithmie -  [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/03_tp_3_algorithmie.ipynb) - [google drive](https://drive.google.com/file/d/1YZYNJY1TjYKm5yU2GnjcI7p6-gq8E-ff/view?usp=sharing)
-## Séance 3 : Manipulation de fichiers en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/03_tp_4_files.ipynb)  - [google drive](https://drive.google.com/file/d/1-cwDYf0ZE0-nNn8q30Eai3ch5FqP24vH/view?usp=sharing)
+## Séance 3 : TP 3 - Un peu d'algorithmie -  [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/03_tp_3_algorithmie.ipynb) - [google drive](https://drive.google.com/file/d/1YZYNJY1TjYKm5yU2GnjcI7p6-gq8E-ff/view?usp=sharing)
+## Séance 3 : TP 4 - Manipulation de fichiers en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/03_tp_4_files.ipynb)  - [google drive](https://drive.google.com/file/d/1-cwDYf0ZE0-nNn8q30Eai3ch5FqP24vH/view?usp=sharing)
 ## Séance 3 : API et requêtes HTTP
    
 # Quelques librairies : manipulations de données
