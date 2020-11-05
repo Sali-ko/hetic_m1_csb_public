@@ -19,9 +19,12 @@
 ## Séances 1 & 2 : TP 2 - Boucles, tests et fonctions - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_2_test_boucle_fonction.ipynb) - [google drive](https://drive.google.com/file/d/1ic1oP8GuopuOrP3l-SJroT2XVO6JViBT/view?usp=sharing)
 ## Séance 3 & 4 : TP 3 - Un peu d'algorithmie -  [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_3_algorithmie.ipynb) - [google drive](https://drive.google.com/file/d/1YZYNJY1TjYKm5yU2GnjcI7p6-gq8E-ff/view?usp=sharing)
 ## Séance 3 & 4: TP 4 - Manipulation de fichiers en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_4_files.ipynb)  - [google drive](https://drive.google.com/file/d/1-cwDYf0ZE0-nNn8q30Eai3ch5FqP24vH/view?usp=sharing)
-## Séance 5 : Requêtes HTTP et API
+
+## Séance 5 : Tuto : Récupérer la dernière version du code 
+
+## Séance 5 : Requêtes HTTP et API [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_5_http_api.ipynb)
    
-## Séance 5 : Les classes en Python
+## Séance 6 : Les classes en Python
 
 ***
 
