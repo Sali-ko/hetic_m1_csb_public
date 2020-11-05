@@ -30,9 +30,10 @@
 
 
 # Quelques librairies : manipulations de données
-## Séance 5: La librairie pandas
-## Séance 6 : Interragir avec une base MongoDB en Python
-## Séance 6 : La librairie numpy
+## Séance 5 : La librairie pandas
+## Séance 6 : La librairie BeautifulSoup
+## Séance 7 : Interragir avec une base MongoDB en Python
+## Séance 7 : La librairie numpy
 ## Séance 7 : Interragir avec une base SQL en Python
         
 ***
