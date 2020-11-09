@@ -1,0 +1,5 @@
+ideas
+
+
+# More BeautifulSoup
+https://www.w3resource.com/python-exercises/BeautifulSoup/python-beautifulsoup-exercise-7.php

@@ -11,6 +11,7 @@
 ## Séance 1 : Python et environnement de développement - [slides](https://selimmmm.github.io/hetic_m1_csb_public/01_python_et_env.pdf)
 ## Séance 1 : Exécuter un notebook en local et sur Google Colab - [slides (2.2 et 2.4)](https://selimmmm.github.io/hetic_m1_csb_public/01_python_et_env.pdf)
 ## Séance 2 : Sauvegarder son code avec Git - [tutoriel sur github](https://github.com/Selimmmm/git_step_by_step)
+## Séance 5 : Tuto : Récupérer la dernière version du code 
 
 ***
     
@@ -20,16 +21,13 @@
 ## Séance 3 & 4 : TP 3 - Un peu d'algorithmie -  [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_3_algorithmie.ipynb)
 ## Séance 3 & 4: TP 4 - Manipulation de fichiers en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_4_files.ipynb)
 
-## Séance 5 : Tuto : Récupérer la dernière version du code 
 
 ## Séance 5 : TP 5 - Requêtes HTTP et API - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_5_http_api.ipynb)
    
 
-
 ## Séance 7 : TP 7 - Les classes en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_5_http_api.ipynb)
 
 ***
-
 
 # Quelques librairies : manipulations de données
 ## Séance 6 : TP 6 - Scraping avec BeautifulSoup - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_7_webscraping_bs.ipynb)
