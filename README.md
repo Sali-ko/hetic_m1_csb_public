@@ -25,12 +25,12 @@
 ## Séance 5 : TP 5 - Requêtes HTTP et API - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_5_http_api.ipynb)
    
 
-## Séance 7 : TP 7 - Les classes en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_5_http_api.ipynb)
+## Séance 7 : TP 7 - Les classes en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_7_classes.ipynb)
 
 ***
 
 # Quelques librairies : manipulations de données
-## Séance 6 : TP 6 - Scraping avec BeautifulSoup - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_7_webscraping_bs.ipynb)
+## Séance 6 : TP 6 - Scraping avec BeautifulSoup - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_6_webscraping_bs.ipynb)
 
 ## Séance 5 : La librairie pandas
 ## Séance 6 : La librairie BeautifulSoup
