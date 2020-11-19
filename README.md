@@ -6,8 +6,7 @@
 ***
 
 
-## Séance 9 : Consignes pour le projet - [notebook sur github]
-(https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/consignes_projet.ipynb)
+## Séance 9 : Consignes pour le projet - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/consignes_projet.ipynb)
 
 
 # Configuration, environnement et versioning 
