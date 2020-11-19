@@ -6,6 +6,10 @@
 ***
 
 
+## Séance 9 : Consignes pour le projet - [notebook sur github]
+(https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/consignes_projet.ipynb)
+
+
 # Configuration, environnement et versioning 
 ## Séance 1 : Introduction - [slides](https://selimmmm.github.io/hetic_m1_csb_public/introduction_m1_csb.pdf)
 ## Séance 1 : Python et environnement de développement - [slides](https://selimmmm.github.io/hetic_m1_csb_public/01_python_et_env.pdf)
@@ -28,9 +32,10 @@
 ## Séance 7 : TP 7 - Les classes en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_7_classes.ipynb)
 
 
-## Séance 8 : TP 8 - Wrap Up Exercice Monty Hall - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_8_wrap_up_exercice.ipynb)
+## Séance 8 : TP 8 - Wrap Up - Monty Hall - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_8_wrap_up_exercice.ipynb)
 
-## Séance 9 : Projet - n exemple avec Monty-Hall [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_8_wrap_up_exercice.ipynb)
+
+## Séance 9 : TP 9 - Syntaxe Wrap Up - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_9_syntax_wrap_up.ipynb)
 
 ***
 
@@ -50,21 +55,6 @@
 ## Séance 8 : La librairie Seaborn
 
     
-
-<!-- # Machine Learning supervisé et non supervisé
-## Séance 5 : Introduction à la régression linéaire
-## Séance 6 : Introduction générale au Machine Learning
-## Séance 6 : Introduction à scikit-learn
-## Séance 6 & 7 : Problèmes de régression
-## Séance 7 : Quelques algorithmes de régression
-## Séance 7 : Métriques pour la régression
-## Séance 7 : Introduction à la régression logistique
-## Séance 8 : Problèmes de classification
-## Séance 8 : Quelques algorithmes de classification
-## Séance 8 : Métriques pour la classification
-## Séance 9 : Wrap-up Machine Learning Supervisé
-## Séance 9 & 10 : Clustering
-## Séance 11 : NLP ? Réseaux neuronaux ?  -->
 
 
 *** 
