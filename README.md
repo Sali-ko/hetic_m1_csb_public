@@ -28,8 +28,9 @@
 ## Séance 7 : TP 7 - Les classes en Python - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_7_classes.ipynb)
 
 
-## Séance 8 : TP 8 - Wrap Up - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_8_wrap_up_exercice.ipynb)
+## Séance 8 : TP 8 - Wrap Up Exercice Monty Hall - [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_8_wrap_up_exercice.ipynb)
 
+## Séance 9 : Projet - n exemple avec Monty-Hall [notebook sur github](https://github.com/Selimmmm/hetic_m1_csb_public/blob/master/tp_8_wrap_up_exercice.ipynb)
 
 ***
 
